@@ -3,6 +3,441 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
+###############################################################
+#EXTINF:0 group-logo="https://comclark.com/assets/logoblue-DhGlcOKn.png",CONVERGE
+###############################################################
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="CONVERGE", A2Z
+https://mc-o0of718lw0.bunny.run/27/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="CONVERGE", ABC AUSTRALIA
+https://mc-o0of718lw0.bunny.run/78/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="CONVERGE", AL JAZEERA
+https://mc-o0of718lw0.bunny.run/79/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png" group-title="CONVERGE", ALIW TV
+https://mc-o0of718lw0.bunny.run/29/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723136602348.png" group-title="CONVERGE", ALL TV
+https://mc-o0of718lw0.bunny.run/55/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219396137.png" group-title="CONVERGE", ANC HD
+https://mc-o0of718lw0.bunny.run/43/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125337224.png" group-title="CONVERGE", ARIRANG
+https://mc-o0of718lw0.bunny.run/76/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png" group-title="CONVERGE", BILYONARYO NEWS HD
+https://mc-o0of718lw0.bunny.run/74/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219327674.png" group-title="CONVERGE", BS FUJI
+https://mc-o0of718lw0.bunny.run/80/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723130002404.png" group-title="CONVERGE", BS PREMIUM
+https://mc-o0of718lw0.bunny.run/66/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125431025.png" group-title="CONVERGE", CARTOON NETWORK
+https://mc-o0of718lw0.bunny.run/37/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219376954.png" group-title="CONVERGE", CARTOONITO
+https://mc-o0of718lw0.bunny.run/104/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125521068.png" group-title="CONVERGE", CCTV4
+https://mc-o0of718lw0.bunny.run/35/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219252241.png" group-title="CONVERGE", CELESTIAL MOVIES PINOY
+https://mc-o0of718lw0.bunny.run/30/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219296797.png" group-title="CONVERGE", CELESTIALCLASSIC MOVIES
+https://mc-o0of718lw0.bunny.run/87/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125560281.png" group-title="CONVERGE", CGTN
+https://mc-o0of718lw0.bunny.run/75/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125590334.png" group-title="CONVERGE", CHANNEL NEWS ASIA
+https://mc-o0of718lw0.bunny.run/24/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="CONVERGE", CINEMA ONE
+https://mc-o0of718lw0.bunny.run/19/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125660668.png" group-title="CONVERGE", CINEMAX
+https://mc-o0of718lw0.bunny.run/16/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png" group-title="CONVERGE", CINEMO
+https://mc-o0of718lw0.bunny.run/94/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125735177.png" group-title="CONVERGE", CLTV36
+https://mc-o0of718lw0.bunny.run/71/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="CONVERGE", CNN
+https://mc-o0of718lw0.bunny.run/28/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723606286242.png" group-title="CONVERGE", DEUTSCHE WELLE
+https://mc-o0of718lw0.bunny.run/59/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1749519196399.png" group-title="CONVERGE", DZMM TELERADYO
+https://mc-o0of718lw0.bunny.run/18/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png" group-title="CONVERGE", DZRH
+https://mc-o0of718lw0.bunny.run/40/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126027555.png" group-title="CONVERGE", EDGESPORT
+https://mc-o0of718lw0.bunny.run/89/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126078814.png" group-title="CONVERGE", EWTN
+https://mc-o0of718lw0.bunny.run/20/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126284675.png" group-title="CONVERGE", FASHION TV
+https://mc-o0of718lw0.bunny.run/45/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126098951.png" group-title="CONVERGE", FILAM TV
+https://mc-o0of718lw0.bunny.run/108/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126239977.png" group-title="CONVERGE", FRANCE 24
+https://mc-o0of718lw0.bunny.run/136/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="CONVERGE", GMA 7
+https://mc-o0of718lw0.bunny.run/7/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="CONVERGE", GNN tv44
+https://mc-o0of718lw0.bunny.run/44/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="CONVERGE", GTV
+https://mc-o0of718lw0.bunny.run/11/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="CONVERGE", HALLYPOP
+https://mc-o0of718lw0.bunny.run/33/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="CONVERGE", HBO
+https://mc-o0of718lw0.bunny.run/32/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="CONVERGE", IBC 13
+https://mc-o0of718lw0.bunny.run/13/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605495653.png" group-title="CONVERGE", INC TV
+https://mc-o0of718lw0.bunny.run/23/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" group-title="CONVERGE", JEEPNEY TV
+https://mc-o0of718lw0.bunny.run/14/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129013828.png" group-title="CONVERGE", KAPAMILYA HD
+https://mc-o0of718lw0.bunny.run/15/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129053549.png" group-title="CONVERGE", KIX
+https://mc-o0of718lw0.bunny.run/47/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="CONVERGE", KNOWLEDGE CHANNEL
+https://mc-o0of718lw0.bunny.run/12/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png" group-title="CONVERGE", Light TV
+https://mc-o0of718lw0.bunny.run/88/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605044807.png" group-title="CONVERGE", LIVING ASIA
+https://mc-o0of718lw0.bunny.run/92/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129704683.png" group-title="CONVERGE", LOTUS
+https://mc-o0of718lw0.bunny.run/120/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png" group-title="CONVERGE", METRO
+https://mc-o0of718lw0.bunny.run/49/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1730362635883.png" group-title="CONVERGE", MINDANOW
+https://mc-o0of718lw0.bunny.run/77/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129763447.png" group-title="CONVERGE", MYX
+https://mc-o0of718lw0.bunny.run/26/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png" group-title="CONVERGE", NET 25
+https://mc-o0of718lw0.bunny.run/17/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129897469.png" group-title="CONVERGE", NHK BS1
+https://mc-o0of718lw0.bunny.run/67/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131229501.png" group-title="CONVERGE", NHK WORLD
+https://mc-o0of718lw0.bunny.run/73/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723130097999.png" group-title="CONVERGE", NICK Jr.
+https://mc-o0of718lw0.bunny.run/118/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131202156.png" group-title="CONVERGE", ONE SPORTS
+https://mc-o0of718lw0.bunny.run/25/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131279043.png" group-title="CONVERGE", ORAS NG HIMALA
+https://mc-o0of718lw0.bunny.run/129/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="CONVERGE", PBO
+https://mc-o0of718lw0.bunny.run/8/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131346405.png" group-title="CONVERGE", PHOENIX CHINESE
+https://mc-o0of718lw0.bunny.run/60/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723132198713.png" group-title="CONVERGE", PREMIER FOOTBALL
+https://mc-o0of718lw0.bunny.run/105/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133770267.png" group-title="CONVERGE", PREMIER SPORTS
+https://mc-o0of718lw0.bunny.run/122/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133748606.png" group-title="CONVERGE", PREMIER SPORTS 2
+https://mc-o0of718lw0.bunny.run/113/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="CONVERGE", PTV
+https://mc-o0of718lw0.bunny.run/4/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133809689.png" group-title="CONVERGE", RADIO MARIA
+https://mc-o0of718lw0.bunny.run/81/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="CONVERGE", RJTV 29
+https://mc-o0of718lw0.bunny.run/36/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133849713.png" group-title="CONVERGE", ROCK TV OF MANILA
+https://mc-o0of718lw0.bunny.run/130/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133873954.png" group-title="CONVERGE", RPTV
+https://mc-o0of718lw0.bunny.run/9/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723612444093.png" group-title="CONVERGE", SAUDI TV
+https://mc-o0of718lw0.bunny.run/128/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png" group-title="CONVERGE", SMNI
+https://mc-o0of718lw0.bunny.run/84/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png" group-title="CONVERGE", SOLAR FLIX
+https://mc-o0of718lw0.bunny.run/127/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134030645.png" group-title="CONVERGE", SOLAR SPORTS
+https://mc-o0of718lw0.bunny.run/56/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219661968.png" group-title="CONVERGE", STAR CHANNEL 1
+https://mc-o0of718lw0.bunny.run/51/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134076089.png" group-title="CONVERGE", TAP ACTION FLIX
+https://mc-o0of718lw0.bunny.run/99/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134099364.png" group-title="CONVERGE", TAP EDGE
+https://mc-o0of718lw0.bunny.run/58/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134117906.png" group-title="CONVERGE", TAP MOVIES
+https://mc-o0of718lw0.bunny.run/98/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134161793.png" group-title="CONVERGE", TAP SPORTS
+https://mc-o0of718lw0.bunny.run/54/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134180637.png" group-title="CONVERGE", TAP TV
+https://mc-o0of718lw0.bunny.run/48/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134224456.png" group-title="CONVERGE", TBN
+https://mc-o0of718lw0.bunny.run/139/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134284048.png" group-title="CONVERGE", THRILL
+https://mc-o0of718lw0.bunny.run/90/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219688328.png" group-title="CONVERGE", TMC
+https://mc-o0of718lw0.bunny.run/97/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134353936.png" group-title="CONVERGE", TV MARIA
+https://mc-o0of718lw0.bunny.run/131/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134335547.png" group-title="CONVERGE", TV5
+https://mc-o0of718lw0.bunny.run/5/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134373931.png" group-title="CONVERGE", TV5MONDE
+https://mc-o0of718lw0.bunny.run/69/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134391817.png" group-title="CONVERGE", TVE
+https://mc-o0of718lw0.bunny.run/70/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134409636.png" group-title="CONVERGE", UNTV
+https://mc-o0of718lw0.bunny.run/10/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134428182.png" group-title="CONVERGE", USA TODAY NEWS
+https://mc-o0of718lw0.bunny.run/115/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219709476.png" group-title="CONVERGE", VEGAS LIFE
+https://mc-o0of718lw0.bunny.run/109/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134481136.png" group-title="CONVERGE", VIVA CINEMA
+https://mc-o0of718lw0.bunny.run/39/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134500990.png" group-title="CONVERGE", WARNER TV
+https://mc-o0of718lw0.bunny.run/83/dopamine/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="CONVERGE", XINGKONG
+https://mc-o0of718lw0.bunny.run/65/dopamine/manifest.mpd
+
+
 ################################################################
 #EXTINF:0 group-logo="https://i.imgur.com/9sqCGNm.png",SamsungTV
 ################################################################
@@ -327,6 +762,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 ###################################################################
 #EXTINF:0 group-logo="https://i.imgur.com/kcGnric.png",IndiHomeTV
 ###################################################################
+
 #EXTINF:0 group-title="IndiHomeTV" tvg-logo="https://images.indihometv.com/assets/88_HITSNOW_2025_03_17_15_25_11.png",Hits Now
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -334,7 +770,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTINF:0 group-title="IndiHomeTV;Movies" tvg-logo="https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png",Studio Universal
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
-
 #EXTINF:0 group-title="IndiHomeTV;Movies" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -619,7 +1054,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 **********Cignal-TV**********
-#EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
+#EXTINF:-1 group-logo="https://mycignal.ph/Content/images/cignal-inverted.png"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="Cignal;News", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1697,6 +2132,10 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 https://vod.nathcreqtives.com/1093/manifest.mpd
 
+#EXTINF:1 group-title="KyleTV;News" tvg-id="convergenceinc/gmanetwork" tvg-logo="" provider="Convergence inc" provider-logo="" provider-type="iptv",[Convergence inc] gma
+https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+
+
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1883,9 +2322,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-uw2-prod.tsv2.amagi.tv%2Flinear%2Famg01006-abs-cbn-pbb-live-dash-abscbnono%2Ff0a4ec31-9962-438e-8643-2b7e36dc9435%2Findex.mpd&streamId=amg01006-abs-cbn-pbb-live-dash-abscbnono&sessionId=f0a4ec31-9962-438e-8643-2b7e36dc9435
 https://conv.iyadtv.workers.dev/gma7x/stream.mpd
 
-#EXTINF:1 group-title="KyleTV;News" tvg-id="convergenceinc/gmanetwork" tvg-logo="" provider="Convergence inc" provider-logo="" provider-type="iptv",[Convergence inc] gma
-https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
-
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="KyleTV",Just For Laughs Gags (720p)
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 
@@ -1913,7 +2349,62 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Kids",ToonGoggles (720p)
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 
-********TestTV************
 
+#EXTINF:1 group-title="IPTV" tvg-id="convergenceinc/aniplus" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Aniplus
+http://vod.nathcreqtives.com/stream/convergenceinc/aniplus/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:2 group-title="IPTV" tvg-id="convergenceinc/cinemaone" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Cinema One
+http://vod.nathcreqtives.com/stream/convergenceinc/cinemaone/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:3 group-title="IPTV" tvg-id="convergenceinc/hbo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Cinemax
+http://vod.nathcreqtives.com/stream/convergenceinc/hbo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:4 group-title="IPTV" tvg-id="convergenceinc/cinemo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Cinemo!
+http://vod.nathcreqtives.com/stream/convergenceinc/cinemo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:5 group-title="IPTV" tvg-id="convergenceinc/gmalifetv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GMA Life TV
+http://vod.nathcreqtives.com/stream/convergenceinc/gmalifetv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
+#EXTINF:6 group-title="IPTV" tvg-id="convergenceinc/gmanetwork" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GMA Manila
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
+#EXTINF:7 group-title="IPTV" tvg-id="convergenceinc/gmanewstv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GMA News TV
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanewstv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:8 group-title="IPTV" tvg-id="convergenceinc/gtv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GTV
+http://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:9 group-title="IPTV" tvg-id="convergenceinc/heartofasia" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Heart Of Asia
+http://vod.nathcreqtives.com/stream/convergenceinc/heartofasia/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:10 group-title="IPTV" tvg-id="convergenceinc/ihm" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", I Heart Movies
+http://vod.nathcreqtives.com/stream/convergenceinc/ihm/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:11 group-title="IPTV" tvg-id="convergenceinc/jeepneytv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Jeepney TV
+http://vod.nathcreqtives.com/stream/convergenceinc/jeepneytv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:12 group-title="IPTV" tvg-id="convergenceinc/kapamilya" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Kapamilya HD
+http://vod.nathcreqtives.com/stream/convergenceinc/kapamilya/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:13 group-title="IPTV" tvg-id="convergenceinc/nbatv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NBA TV
+http://vod.nathcreqtives.com/stream/convergenceinc/nbatv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:14 group-title="IPTV" tvg-id="convergenceinc/tv5hd" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", TV 5 HD
+http://vod.nathcreqtives.com/stream/convergenceinc/tv5hd/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:15 group-title="IPTV" tvg-id="convergenceinc/vivacinema" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Viva Cinema
+http://vod.nathcreqtives.com/stream/convergenceinc/vivacinema/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:16 group-title="IPTV" tvg-id="convergenceinc/pbo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", PBO
+http://vod.nathcreqtives.com/stream/convergenceinc/pbo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:17 group-title="IPTV" tvg-id="convergenceinc/myxph" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", MYX Philippines
+http://vod.nathcreqtives.com/stream/convergenceinc/myxph/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:18 group-title="IPTV" tvg-id="convergenceinc/alltv2" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", ALLTV2
+http://vod.nathcreqtives.com/stream/convergenceinc/alltv2/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:19 group-title="IPTV" tvg-id="convergenceinc/smni" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", SMNI
+http://vod.nathcreqtives.com/stream/convergenceinc/smni/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:20 group-title="IPTV" tvg-id="convergenceinc/gnn" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GNN
+http://vod.nathcreqtives.com/stream/convergenceinc/gnn/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:21 group-title="IPTV" tvg-id="convergenceinc/net25" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NET25
+http://vod.nathcreqtives.com/stream/convergenceinc/net25/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:22 group-title="IPTV" tvg-id="convergenceinc/dzrhnews" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", DZRH News
+http://vod.nathcreqtives.com/stream/convergenceinc/dzrhnews/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:23 group-title="IPTV" tvg-id="convergenceinc/untv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", UNTV
+http://vod.nathcreqtives.com/stream/convergenceinc/untv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:24 group-title="IPTV" tvg-id="convergenceinc/metrochannel" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Metro Channel
+http://vod.nathcreqtives.com/stream/convergenceinc/metrochannel/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:25 group-title="IPTV" tvg-id="convergenceinc/lighttv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Tap Edge
+http://vod.nathcreqtives.com/stream/convergenceinc/lighttv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:26 group-title="IPTV" tvg-id="convergenceinc/nhk" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NHK World
+http://vod.nathcreqtives.com/stream/convergenceinc/nhk/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:27 group-title="IPTV" tvg-id="convergenceinc/mtv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", MTV
+http://vod.nathcreqtives.com/stream/convergenceinc/mtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:28 group-title="IPTV" tvg-id="convergenceinc/mnet" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Mnet
+http://vod.nathcreqtives.com/stream/convergenceinc/mnet/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
