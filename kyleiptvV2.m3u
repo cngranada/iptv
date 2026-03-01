@@ -2051,13 +2051,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:0 tvg-logo="https://i.imgur.com/cNiAmXt.png" group-title="KyleTV", Cartoonito 
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="KyleTV", MOR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51b1911cb0b0494cb1cfba62943be0ad:f0ce78a0e0c5b14cb16769bd95d17b80
-https://abslive.akamaized.net/dash/live/2028025/mor3/manifest.mpd
- 
 #EXTINF:-1 ch-number="44" tvg-chno="1" group-title="KyleTV;World TV;News" tvg-id="DZMM TELERADYO" tvg-name="DZMM Teleradyo" tvg-logo="https://i.pinimg.com/736x/b6/72/88/b67288465960673b23860f97176de5d3.jpg", DZMM Teleradyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2086,14 +2079,6 @@ https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
 
 #EXTINF:-1 ch-number="29" tvg-chno="29" tvg-id="PBS" tvg-name="PBS KIDS Asia" tvg-logo="https://i.pinimg.com/736x/a3/15/e8/a315e823dfc488447d33f7237bc3f671.jpg" group-title="KyleTV;World TV", PBS KIDS ASIA
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="KyleTV;World TV;News", GMA 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-https://cdn-uw2-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-uw2-prod.tsv2.amagi.tv%2Flinear%2Famg01006-abs-cbn-pbb-live-dash-abscbnono%2Ff0a4ec31-9962-438e-8643-2b7e36dc9435%2Findex.mpd&streamId=amg01006-abs-cbn-pbb-live-dash-abscbnono&sessionId=f0a4ec31-9962-438e-8643-2b7e36dc9435
-https://conv.iyadtv.workers.dev/gma7x/stream.mpd
 
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="KyleTV",Just For Laughs Gags (720p)
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
@@ -2181,3 +2166,4 @@ http://vod.nathcreqtives.com/stream/convergenceinc/nhk/master.m3u8?u=phc&p=fd65e
 http://vod.nathcreqtives.com/stream/convergenceinc/mtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 #EXTINF:28 group-title="IPTV" tvg-id="convergenceinc/mnet" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Mnet
 http://vod.nathcreqtives.com/stream/convergenceinc/mnet/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
